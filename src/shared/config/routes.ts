@@ -1,8 +1,10 @@
 const routes = {
     main: '/',
 
+    search: '/search/',
+
     goods: '/goods',
-    good: '/goods/:id',
+    good: '/good/',
 
     cart: '/cart',
     profile: '/profile'

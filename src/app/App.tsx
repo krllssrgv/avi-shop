@@ -1,6 +1,6 @@
 import React from 'react';
 import AppRoutes from './AppRoutes';
-import './App.css';
+import 'shared/styles/App.scss';
 
 
 function App() {
